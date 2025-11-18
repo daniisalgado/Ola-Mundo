@@ -40,4 +40,30 @@ Lista de Tarefas:
 
 [Acesse meu GitHub](https://github.com/daniisalgado)
 
+Tabela:
+Nome | Idade | 
+---|---|
+Daniela | 19
+
+Código:
+"Olha meu programa em Python"
+
+```python
+num = int(input('Digite um valor: '))
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é Ímpar')
+```
+
+Emoji:
+
+Olá, pequeno garfalhoto 🖖
+
+
+
+
+
+
+
 
