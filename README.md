@@ -35,4 +35,9 @@ Lista de Tarefas:
 - [x] Criar a página da loja
 - [ ] Finalizer a reunião com o cliente
 - [ ] Receber o pagamento
-   
+
+![Imagem Computadores](https://github.com/user-attachments/assets/55d34b01-98a2-42e6-80ee-26aab65f4f3b)
+
+[Acesse meu GitHub](https://github.com/daniisalgado)
+
+
