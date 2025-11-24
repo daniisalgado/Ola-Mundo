@@ -1,52 +1,72 @@
-## Olá, Mundo!
+# 👋 Olá, Mundo!
 
-* Este é o meu primeiro repositório criado durante o estudo de Git e GitHub.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-* Aqui estou aprendendo como funciona todo o fluxo de versionamento: criar arquivos, enviar mudanças, atualizar versões e organizar melhor meus projetos.
+> *"Aprendendo a controlar versões e documentar projetos."*
 
-__*Material de estudo: Curso em Vídeo – Gustavo Guanabara*__
-***
-# Aula de linguagem Markdown
-podemos _*misturar*_ as configurações
+---
 
-Estou aprendendo a ~*linguagem Markdown*~ no curso em vídeo de Git e GitHub
+## 🚀 Sobre o Repositório
 
-# Título 1,Título Principal,TÍTULO GIGANTE
-## Título 2,Subtítulo,Título Grande
-### Título 3,Seção,Título Médio
-#### Título 4,Sub-seção,Título Pequeno
+Este é o meu **primeiro repositório**, criado durante meus estudos de Git e GitHub. Aqui é onde estou entendendo o fluxo de trabalho profissional:
 
-Lista numerada:
+* 📄 Criar arquivos e repositórios.
+* ⬆️ Enviar mudanças (Push).
+* 🔄 Atualizar versões.
+* 🗂️ Organizar projetos.
 
-1. Teste
-   1. Teste
-3. Teste
-4. Teste
+🎓 **Material de Estudo:** [Curso em Vídeo – Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
-Lista demarcada
+---
 
-* Teste
-    * Teste
-- Teste
+## 📝 Laboratório de Markdown
 
-Lista de Tarefas:
+Abaixo, estou testando a sintaxe da linguagem **Markdown** `.md`. Podemos _*misturar*_ as configurações para criar documentos ricos.
 
+### 1. Hierarquia de Títulos
+Abaixo, exemplos de como os tamanhos se comportam:
+
+# Título 1 (Gigante)
+## Título 2 (Grande)
+### Título 3 (Médio)
+#### Título 4 (Pequeno)
+
+---
+
+### 2. Listas e Organização
+
+**Lista Numerada:**
+1. Planejamento
+2. Execução
+3. Testes
+4. Deploy
+
+**Lista Demarcada (Bullets):**
+* Conceito A
+    * Detalhe do conceito
+- Conceito B
+
+**✅ Lista de Tarefas (Roadmap):**
 - [x] Criar a página principal
 - [x] Criar a página da loja
-- [ ] Finalizer a reunião com o cliente
+- [ ] Finalizar a reunião com o cliente
 - [ ] Receber o pagamento
 
-![Imagem Computadores](https://github.com/user-attachments/assets/55d34b01-98a2-42e6-80ee-26aab65f4f3b)
+---
 
-[Acesse meu GitHub](https://github.com/daniisalgado)
+### 3. Tabelas e Dados
 
-Tabela:
-Nome | Idade | 
----|---|
-Daniela | 19
+| Nome | Idade | Status |
+|---|---|---|
+| Daniela | 19 | Estudando 🚀 |
 
-Código:
-"Olha meu programa em Python"
+---
+
+### 4. Snippets de Código
+
+Olha meu programa em **Python** rodando aqui no documento:
 
 ```python
 num = int(input('Digite um valor: '))
@@ -56,14 +76,6 @@ else:
     print(f'O valor {num} é Ímpar')
 ```
 
-Emoji:
-
-Olá, pequeno garfalhoto 🖖
-
-
-
-
-
-
-
-
+### 5. Emoji
+<div align="center"> <h3>Olá, pequeno gafanhoto 🖖</h3> 
+<a href="https://github.com/daniisalgado">Acesse meu GitHub</a>
